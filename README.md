@@ -1,5 +1,7 @@
 # Hackintosh, Asus ROG Strix Z690-A Gaming WiFi D4, Intel Core i7-12700K, AMD Radeon RX 5600 XT (6128 MB)
 
+![Portifolio](https://github.com/user-attachments/assets/52953b9e-f10a-44ab-aefe-24dbd51ba9b2)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.2)
